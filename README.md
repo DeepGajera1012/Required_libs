@@ -20,21 +20,21 @@ Simple just use pip with this folder name
 - `spyder`(latest) - https://www.spyder-ide.org/
 - `pandas`(latest) - https://pandas.pydata.org/
 - `numpy`(latest) - https://numpy.org/install/
-- `scipy`(latest) - https://www.scipy.org/
-- `scikit-learn`(latest) - https://scikit-learn.org/
-- `joblib`(latest) - https://joblib.readthedocs.io/en/latest/
 - `statmodels`(latest) - https://www.statsmodels.org/stable/index.html
-- `matplotlib`(latest) - https://matplotlib.org/
-- `seaborn`(latest) - https://seaborn.pydata.org/
+- `scipy`(latest) - https://www.scipy.org/
 - `xgboost`(latest) - https://xgboost.ai/sponsors
+- `joblib`(latest) - https://joblib.readthedocs.io/en/latest/
+- `matplotlib`(latest) - https://matplotlib.org/
+- `scikit-learn`(latest) - https://scikit-learn.org/
+- `seaborn`(latest) - https://seaborn.pydata.org/
 - `jupyter`(latest) - https://jupyter.org/
 - `mlxtend`(latest) - http://rasbt.github.io/mlxtend/
-- `lightgbm`(lightgbm) - https://lightgbm.readthedocs.io/en/latest/
 - `catboost`(latest) - https://catboost.ai/
+- `flask`(latest) - https://flask.palletsprojects.com/en/2.
+- `lightgbm`(lightgbm) - https://lightgbm.readthedocs.io/en/latest/
+- `keras`(latest) - https://keras.io/examples/
 - `pycaret`(latest) - https://pycaret.org/
-- `tensorflow(latest)` - https://www.tensorflow.org/tutorials
-- `flask(latest)` - https://flask.palletsprojects.com/en/2.
-- `keras(latest)` - https://keras.io/examples/
+- `tensorflow`(latest) - https://www.tensorflow.org/tutorials
 
 
 #### Installation
