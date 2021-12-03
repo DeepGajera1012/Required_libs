@@ -17,6 +17,7 @@ Simple just use pip with this folder name
 
 `CE_AI_D001` is tested to work under Python 3.8+ and greater. The dependency requirements are based on the user forMachine Learning :
 
+- `spyder`(latest) - https://www.spyder-ide.org/
 - `pandas`(latest) - https://pandas.pydata.org/
 - `numpy`(latest) - https://numpy.org/install/
 - `scipy`(latest) - https://www.scipy.org/
@@ -26,19 +27,13 @@ Simple just use pip with this folder name
 - `matplotlib`(latest) - https://matplotlib.org/
 - `seaborn`(latest) - https://seaborn.pydata.org/
 - `xgboost`(latest) - https://xgboost.ai/sponsors
-
 - `jupyter`(latest) - https://jupyter.org/
-- `spyder`(latest) - https://www.spyder-ide.org/
 - `mlxtend`(latest) - http://rasbt.github.io/mlxtend/
 - `lightgbm`(lightgbm) - https://lightgbm.readthedocs.io/en/latest/
-
 - `catboost`(latest) - https://catboost.ai/
-
 - `pycaret`(latest) - https://pycaret.org/
-
 - `tensorflow(latest)` - https://www.tensorflow.org/tutorials
 - `flask(latest)` - https://flask.palletsprojects.com/en/2.
-
 - `keras(latest)` - https://keras.io/examples/
 
 
