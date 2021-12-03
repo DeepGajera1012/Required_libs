@@ -48,12 +48,12 @@ pip install -U CE_AI_D001
 * If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
 
 ```bash
-git clone https://github.com/DeepGajera1012/ML_Required_libraries.git
-cd ML_Required_libraries
+git clone https://github.com/DeepGajera1012/Required_libs.git
+cd Required_libs
 pip install .
 ```
 
 * Or install using pip and GitHub:
 
 ```bash
-pip install -U git+https://github.com/DeepGajera1012/ML_Required_libraries.git
+pip install -U git+https://github.com/DeepGajera1012/Required_libs.git
