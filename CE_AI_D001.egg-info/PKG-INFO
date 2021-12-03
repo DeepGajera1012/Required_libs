@@ -26,29 +26,24 @@ Description: # Machine Learning important librarires just a click away
         
         `CE_AI_D001` is tested to work under Python 3.8+ and greater. The dependency requirements are based on the user forMachine Learning :
         
+        - `spyder`(latest) - https://www.spyder-ide.org/
         - `pandas`(latest) - https://pandas.pydata.org/
         - `numpy`(latest) - https://numpy.org/install/
-        - `scipy`(latest) - https://www.scipy.org/
-        - `scikit-learn`(latest) - https://scikit-learn.org/
-        - `joblib`(latest) - https://joblib.readthedocs.io/en/latest/
         - `statmodels`(latest) - https://www.statsmodels.org/stable/index.html
-        - `matplotlib`(latest) - https://matplotlib.org/
-        - `seaborn`(latest) - https://seaborn.pydata.org/
+        - `scipy`(latest) - https://www.scipy.org/
         - `xgboost`(latest) - https://xgboost.ai/sponsors
-        
+        - `joblib`(latest) - https://joblib.readthedocs.io/en/latest/
+        - `matplotlib`(latest) - https://matplotlib.org/
+        - `scikit-learn`(latest) - https://scikit-learn.org/
+        - `seaborn`(latest) - https://seaborn.pydata.org/
         - `jupyter`(latest) - https://jupyter.org/
-        - `spyder`(latest) - https://www.spyder-ide.org/
         - `mlxtend`(latest) - http://rasbt.github.io/mlxtend/
-        - `lightgbm`(lightgbm) - https://lightgbm.readthedocs.io/en/latest/
-        
         - `catboost`(latest) - https://catboost.ai/
-        
+        - `flask`(latest) - https://flask.palletsprojects.com/en/2.
+        - `lightgbm`(lightgbm) - https://lightgbm.readthedocs.io/en/latest/
+        - `keras`(latest) - https://keras.io/examples/
         - `pycaret`(latest) - https://pycaret.org/
-        
-        - `tensorflow(latest)` - https://www.tensorflow.org/tutorials
-        - `flask(latest)` - https://flask.palletsprojects.com/en/2.
-        
-        - `keras(latest)` - https://keras.io/examples/
+        - `tensorflow`(latest) - https://www.tensorflow.org/tutorials
         
         
         #### Installation
@@ -62,15 +57,15 @@ Description: # Machine Learning important librarires just a click away
         * If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
         
         ```bash
-        git clone https://github.com/DeepGajera1012/ML_Required_libraries.git
-        cd ML_Required_libraries
+        git clone https://github.com/DeepGajera1012/Required_libs.git
+        cd Required_libs
         pip install .
         ```
         
         * Or install using pip and GitHub:
         
         ```bash
-        pip install -U git+https://github.com/DeepGajera1012/ML_Required_libraries.git
+        pip install -U git+https://github.com/DeepGajera1012/Required_libs.git
 Keywords: CE_AI_D001,Machine Learning in a single file,AI,ML,Machine Learning
 Platform: any
 Classifier: License :: OSI Approved :: MIT License
